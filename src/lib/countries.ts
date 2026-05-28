@@ -1,0 +1,18 @@
+export const countries: Record<string, string[]> = {
+  "United States": ["California", "Utah", "Washington", "Arizona", "Maine"],
+  "Canada": ["Alberta"],
+  "United Kingdom": ["Wales", "Scotland"],
+  "France": ["Alps"],
+  "Italy": ["Apennines", "Alps"],
+  "New Zealand": ["South Island"],
+  "Japan": ["Honshu"],
+  "Switzerland": ["Alps"],
+  "Tanzania": ["Kilimanjaro"],
+  "Germany": ["Bavaria"],
+  "Ireland": ["County Kerry"],
+  "Croatia": ["Lika-Senj"],
+  "Chile": ["Patagonia"],
+  "Iceland": ["Highlands"],
+  "Australia": ["Tasmania"],
+  "Morocco": ["High Atlas"],
+};
